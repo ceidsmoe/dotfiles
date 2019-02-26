@@ -117,6 +117,7 @@ if ! shopt -oq posix; then
 fi
 
 export PATH=$PATH:~/Android/Sdk/platform-tools/
+export PATH=$PATH:/usr/local/go/bin
 
 export ANDLAB1=171PRE0033
 export PIXEL1=FA77A0300077
